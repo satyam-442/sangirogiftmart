@@ -8,5 +8,7 @@ Introducing our innovative Online Gift Shop Application – your one-stop destin
 <img src="Images/7.jpg" height = "500px" width= "250px">    <img src="Images/8.jpg" height = "500px" width= "250px">    <img src="Images/9.jpg" height = "500px" width= "250px"> <br/></br>
 <img src="Images/10.jpg" height = "500px" width= "250px">   <img src="Images/11.jpg" height = "500px" width= "250px">    <img src="Images/12.jpg" height = "500px" width= "250px"> <br/></br>
 <img src="Images/13.jpg" height = "500px" width= "250px">    <img src="Images/14.jpg" height = "500px" width= "250px">    <img src="Images/15.jpg" height = "500px" width= "250px"> <br/></br>
-<img src="Images/17.jpg" height = "500px" width= "250px">    <img src="Images/17.jpg" height = "500px" width= "250px">    
+<img src="Images/17.jpg" height = "500px" width= "250px">    <img src="Images/17.jpg" height = "500px" width= "250px">    <img src="Images/18.jpg" height = "500px" width= "250px"> <br/></br>
+<img src="Images/19.jpg" height = "500px" width= "250px">    <img src="Images/20.jpg" height = "500px" width= "250px">    <img src="Images/21.jpg" height = "500px" width= "250px"> <br/></br>
+<img src="Images/22.jpg" height = "500px" width= "250px">     
 </pre>
